@@ -1,0 +1,34 @@
+# Cloud Talent Investment Strategist - Configuration
+version: "3.0.0"
+framework:
+  name: "Cloud Talent Investment Strategist (CTIS)"
+  author: "Al Bochi, Saillent"
+  description: "Decision intelligence platform for cloud talent investments"
+
+market_benchmarks:
+  data_source: "Gartner, PitchBook, Levels.fyi Q3 2024"
+  update_frequency: "quarterly"
+  regions:
+    north_america:
+      salary_multiplier: 1.0
+      productivity_factor: 1.0
+    emea:
+      salary_multiplier: 0.85
+      productivity_factor: 0.95
+    apac:
+      salary_multiplier: 0.75
+      productivity_factor: 0.90
+
+financial_parameters:
+  discount_rate: 0.08
+  tax_rate: 0.21
+  benefits_multiplier: 1.3
+  implementation_timeline: 3
+
+risk_models:
+  probability_distributions:
+    - name: "normal"
+      use_case: "Standard ROI calculations"
+    - name: "monte_carlo"
+      use_case: "Risk-adjusted scenarios"
+  confidence_intervals: [0.90, 0.95, 0.99]

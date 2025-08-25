@@ -1,0 +1,19 @@
+# Investment Scenarios Configuration
+scenarios:
+  - name: "Conservative Growth"
+    assumptions:
+      market_growth: 0.05
+      cost_reduction: 0.15
+      risk_tolerance: "low"
+  
+  - name: "Aggressive Transformation"
+    assumptions:
+      market_growth: 0.12
+      cost_reduction: 0.30
+      risk_tolerance: "high"
+  
+  - name: "Balanced Expansion"
+    assumptions:
+      market_growth: 0.08
+      cost_reduction: 0.22
+      risk_tolerance: "medium"
