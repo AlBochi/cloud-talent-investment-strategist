@@ -8,7 +8,7 @@
 
 **For Technology Executives:** Quantifies the financial impact of cloud talent investments with institutional-grade analysis.  
 **For Financial Leadership:** Provides NPV, IRR, and risk-adjusted return metrics for capital allocation decisions.  
-**For Talent Leadership:** Optimizes hiring strategies based on market benchmarks and ROI projections........................................................................
+**For Talent Leadership:** Optimizes hiring strategies based on market benchmarks and ROI projections.......................................................................
 
 ## 📊 Core Capabilities
 
