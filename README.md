@@ -2,7 +2,7 @@
 
 ## Executive Decision-Support Platform for Cloud Talent Investments
 
-> A predictive analytics platform that transforms cloud talent acquisition from a cost center to a strategic investment portfolio. Leverages advanced financial modeling, risk analysis, and market intelligence to optimize talent investment decisions..............
+> A predictive analytics platform that transforms cloud talent acquisition from a cost center to a strategic investment portfolio. Leverages advanced financial modeling, risk analysis, and market intelligence to optimize talent investment decisions.............
 
 ## 🎯 Strategic Value Proposition
 
